@@ -51,6 +51,7 @@ Anyone can add an entry to the table, and entries should include the:
 === "900 MHz Rankings"
     | Max Dist. (km) | Packet Rate (Hz) | TX Power (mW) | Type | Failsafe at Max Range? | Pilot Handle  | Link to DVR                          |
     |----------------|------------------|---------------|------|------------------------|---------------|--------------------------------------|
+    | 70.1           | 25               | 1000          | Wing | No                     | Yarillo       | [Link](https://www.youtube.com/watch?v=o3qp6J1E7AE&t=168s) |
     | 50.1           | 25               | 500           | Wing | No                     | Yarillo       | [Link](https://youtu.be/EJeTSvX5jrA) |
     | 40.7           | 50               | 10            | Wing | No                     | Leslie Yagin  | [Link](https://youtu.be/HRqTklpWDIM) |
     | 13.1           | 50               | 100           | Quad | No                     | Taufik        | [Link](https://youtu.be/Thrz9QuZGWE) |
